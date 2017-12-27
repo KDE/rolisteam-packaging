@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=rcse
+X-AppInstall-Section=universe
+
+Type=Application
+Name=RCSE
+Icon=/usr/share/app-install/icons/symbol2.png
+Version=1.0.0
+Comment=Create charactersheet for rolisteam.
+Exec=/usr/bin/rcse
+Terminal=false
+Categories=Game;
+
+Name[en_US]=rcse
