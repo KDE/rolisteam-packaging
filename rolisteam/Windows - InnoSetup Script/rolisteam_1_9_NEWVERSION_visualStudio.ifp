@@ -20,7 +20,7 @@ DFA = 0
 Comp = 1
 [Graphics]
 Wizard image = <main>
-Header image = D:\documents\applications\git\rolisteam\resources\logo\256.jpg
+Header image = C:\Users\renau\Documents\GitHub\rolisteam\resources\logo\256.jpg
 Install-icon image = <main>
 Show Label = 1
 Windows style = 1
@@ -51,13 +51,13 @@ Shortcut path = <company>\<appname>\
 Allows = 0
 Number = 20
 [SplashScreen]
-Image = D:\documents\applications\git\rolisteam\resources\logo\500-rolisteam.jpg
+Image = C:\Users\renau\Documents\GitHub\rolisteam\resources\logo\500-rolisteam.jpg
 Sound = 
 Time = 2
 PlaySound = 0
 Allow = 0
 [Build]
-File = D:\documents\softwares\Rolisteam-1.9.0-beta14-setup.exe
+File = C:\Users\renau\Documents\Rolisteam-1.9.0-beta15-setup.exe
 [Updater]
 Allow = 0
 1 = <appname>
@@ -75,157 +75,155 @@ Execdlls = 0
 3
 4
 5
+7
 9
 10
 12
 [Files/Dirs]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\audio\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\translations\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\scenegraph\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\resources\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\QtWebEngine\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\QtQuick.2\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\QtQuick\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\QtQml\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\qmltooling\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\printsupport\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\position\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\playlistformats\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\platforms\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\platforminputcontexts\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\mediaservice\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\imageformats\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\iconengines\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\bearer\
-n/a
-[Folder]
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\d3dcompiler_47.dll
-4.1 MB
+C:\Users\renau\Documents\GitHub\binaries\d3dcompiler_47.dll
+4.3 MB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\libEGL.dll
-15 KB
+C:\Users\renau\Documents\GitHub\binaries\libEGL.dll
+18 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\libGLESV2.dll
-2.4 MB
+C:\Users\renau\Documents\GitHub\binaries\libGLESV2.dll
+3.4 MB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\opengl32sw.dll
+C:\Users\renau\Documents\GitHub\binaries\opengl32sw.dll
 20 MB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5Core.dll
-5.5 MB
-dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5Gui.dll
+C:\Users\renau\Documents\GitHub\binaries\Qt5Core.dll
 5.8 MB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5Multimedia.dll
-702 KB
+C:\Users\renau\Documents\GitHub\binaries\Qt5Gui.dll
+6.2 MB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5Network.dll
-1.2 MB
+C:\Users\renau\Documents\GitHub\binaries\Qt5Multimedia.dll
+702.5 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5Positioning.dll
-274 KB
+C:\Users\renau\Documents\GitHub\binaries\Qt5Network.dll
+1.3 MB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5PrintSupport.dll
-313 KB
+C:\Users\renau\Documents\GitHub\binaries\Qt5Positioning.dll
+308.5 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5Qml.dll
-3.1 MB
+C:\Users\renau\Documents\GitHub\binaries\Qt5PrintSupport.dll
+311 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5Quick.dll
-3.3 MB
+C:\Users\renau\Documents\GitHub\binaries\Qt5Qml.dll
+3.8 MB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5QuickControls2.dll
-104.5 KB
+C:\Users\renau\Documents\GitHub\binaries\Qt5Quick.dll
+3.6 MB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5QuickTemplates2.dll
-728.5 KB
+C:\Users\renau\Documents\GitHub\binaries\Qt5QuickControls2.dll
+166 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5QuickWidgets.dll
-69.5 KB
+C:\Users\renau\Documents\GitHub\binaries\Qt5QuickTemplates2.dll
+994 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5SerialPort.dll
-70 KB
+C:\Users\renau\Documents\GitHub\binaries\Qt5QuickWidgets.dll
+71 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5Svg.dll
-321 KB
+C:\Users\renau\Documents\GitHub\binaries\Qt5SerialPort.dll
+79 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5WebChannel.dll
-107.5 KB
+C:\Users\renau\Documents\GitHub\binaries\Qt5Svg.dll
+323 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5WebEngine.dll
-317.5 KB
+C:\Users\renau\Documents\GitHub\binaries\Qt5WebChannel.dll
+109.5 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5WebEngineCore.dll
-65.6 MB
+C:\Users\renau\Documents\GitHub\binaries\Qt5WebEngine.dll
+342 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5WebEngineWidgets.dll
-219 KB
+C:\Users\renau\Documents\GitHub\binaries\Qt5WebEngineCore.dll
+74.1 MB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5Widgets.dll
+C:\Users\renau\Documents\GitHub\binaries\Qt5WebEngineWidgets.dll
+220 KB
+dll
+C:\Users\renau\Documents\GitHub\binaries\Qt5Widgets.dll
 5.3 MB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\Qt5Xml.dll
-190 KB
+C:\Users\renau\Documents\GitHub\binaries\Qt5Xml.dll
+186.5 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\QtWebEngineProcess.exe
-17 KB
+C:\Users\renau\Documents\GitHub\binaries\QtWebEngineProcess.exe
+19 KB
 exe
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\rcse.exe
-1.5 MB
+C:\Users\renau\Documents\GitHub\binaries\rolisteam.exe
+9.4 MB
 exe
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\rolisteam.exe
-7 MB
+C:\Users\renau\Documents\GitHub\binaries\vc_redist.x64.exe
+14.6 MB
 exe
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\vcredist_x64.exe
-14.5 MB
-exe
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\zlib.dll
+C:\Users\renau\Documents\GitHub\binaries\zlib.dll
 80.5 KB
 dll
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\zlib.lib
-14.4 KB
-lib
-D:\documents\applications\git\build-rolisteam-Qt5_9_2_VS_64-Release\client\release\zlibstatic.lib
-164.1 KB
-lib
+C:\Users\renau\Documents\GitHub\binaries\audio\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\bearer\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\iconengines\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\imageformats\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\mediaservice\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\platforminputcontexts\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\platforms\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\playlistformats\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\position\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\printsupport\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\qmltooling\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\Qt\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\QtGraphicalEffects\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\QtQml\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\QtQuick\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\QtQuick.2\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\QtWebEngine\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\resources\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\scenegraph\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\styles\
+n/a
+[Folder]
+C:\Users\renau\Documents\GitHub\binaries\translations\
+n/a
+[Folder]
 [Licence_Begin]
 19906
 {\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 MS Shell Dlg;}}
@@ -571,6 +569,16 @@ Public License instead of this License.\par
 }
  [Licence_End]
 [Registry]
+HKEY_CLASSES_ROOT
+rolisteam
+URL protocol
+
+1
+HKEY_CLASSES_ROOT
+rolisteam\shell\open\command
+""
+"<installpath>\rolisteam.exe" -l "%1"
+1
 [Variables]
 [SCs]
 Desktop
