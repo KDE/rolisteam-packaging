@@ -37,3 +37,9 @@ Makefile*
 # QtCtreator CMake
 CMakeLists.txt.user*
 
+# Packaging files
+
+.app-dir
+.flatpak-builder
+.repo
+org.rolisteam.rolisteam

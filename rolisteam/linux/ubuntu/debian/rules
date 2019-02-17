@@ -10,7 +10,7 @@
 export DH_VERBOSE=1
 include /usr/share/cdbs/1/rules/debhelper.mk
 include /usr/share/cdbs/1/class/qmake.mk
-QMAKE=qmake rolisteam.pro
+QMAKE=qmake rolisteam.pro CONFIG+=release
 
 
 #PKG_CONFIG_PATH=/usr/local/Trolltech/Qt-4.5.1/lib/pkgconfig
@@ -39,9 +39,21 @@ install/rolisteam::
 	mkdir -p $(CURDIR)/debian/rolisteam/usr/bin/
 	mkdir -p $(CURDIR)/debian/rolisteam/usr/share/
 	mkdir -p $(CURDIR)/debian/rolisteam/usr/share/applications/
-	mkdir -p $(CURDIR)/debian/rolisteam/usr/share/app-install/
-	mkdir -p $(CURDIR)/debian/rolisteam/usr/share/app-install/icons/
-	cp $(CURDIR)/bin/rolisteam $(CURDIR)/debian/rolisteam/usr/bin/
-	cp $(CURDIR)/resources/logo/symbol.svg $(CURDIR)/debian/rolisteam/usr/share/app-install/icons/rolisteam.svg
+	mkdir -p $(CURDIR)/debian/rolisteam/usr/share/icons/hicolor/scalable/apps/
+	mkdir -p $(CURDIR)/debian/rolisteam/usr/share/icons/hicolor/48x48/apps/
+	cp $(CURDIR)/client/rolisteam $(CURDIR)/debian/rolisteam/usr/bin/
+	cp $(CURDIR)/resources/logo/symbol.svg $(CURDIR)/debian/rolisteam/usr/share/icons/hicolor/scalable/apps/rolisteam.svg
+	cp $(CURDIR)/resources/logo/square48x48.png $(CURDIR)/debian/rolisteam/usr/share/icons/hicolor/48x48/apps/rolisteam.png
 	cp rolisteam.desktop $(CURDIR)/debian/rolisteam/usr/share/applications/
 
+
+#install/roliserver::
+	#mkdir -p $(CURDIR)/debian/rolisteam/usr/
+	#mkdir -p $(CURDIR)/debian/rolisteam/usr/bin/
+	#mkdir -p $(CURDIR)/debian/rolisteam/usr/share/
+	#mkdir -p $(CURDIR)/debian/rolisteam/usr/share/applications/
+	#mkdir -p $(CURDIR)/debian/rolisteam/usr/share/app-install/
+	#mkdir -p $(CURDIR)/debian/rolisteam/usr/share/app-install/icons/
+#	cp $(CURDIR)/server/roliserver $(CURDIR)/debian/rolisteam/usr/bin/
+#	cp $(CURDIR)/resources/logo/symbol.svg $(CURDIR)/debian/rolisteam/usr/share/app-install/icons/rolisteam.svg
+#	cp rolisteam.desktop $(CURDIR)/debian/rolisteam/usr/share/applications/
