@@ -5,7 +5,9 @@
   <name xml:lang="ca">Client del RPG Rolisteam</name>
   <name xml:lang="ca-valencia">Client del RPG Rolisteam</name>
   <name xml:lang="es">Cliente RPG de Rolisteam</name>
+  <name xml:lang="nl">Rolisteam RPG-client</name>
   <name xml:lang="nn">Rolisteam RPG-klient</name>
+  <name xml:lang="sl">Odjemalec Rolisteam RPG</name>
   <name xml:lang="sv">Rolisteam rollspelsklient</name>
   <name xml:lang="uk">Клієнт RPG Rolisteam</name>
   <name xml:lang="x-test">xxRolisteam RPG Clientxx</name>
@@ -13,7 +15,9 @@
   <developer_name xml:lang="ca">Rolisteam</developer_name>
   <developer_name xml:lang="ca-valencia">Rolisteam</developer_name>
   <developer_name xml:lang="es">Rolisteam</developer_name>
+  <developer_name xml:lang="nl">Rolisteam</developer_name>
   <developer_name xml:lang="nn">Rolisteam</developer_name>
+  <developer_name xml:lang="sl">Rolisteam</developer_name>
   <developer_name xml:lang="sv">Rolisteam</developer_name>
   <developer_name xml:lang="uk">Rolisteam</developer_name>
   <developer_name xml:lang="x-test">xxRolisteamxx</developer_name>
@@ -21,7 +25,9 @@
   <summary xml:lang="ca">Un client auxiliar al servidor Rolisteam</summary>
   <summary xml:lang="ca-valencia">Un client auxiliar al servidor Rolisteam</summary>
   <summary xml:lang="es">Cliente complementario para el servidor Rolisteam</summary>
+  <summary xml:lang="nl">Client-compagnon naar Rolisteam-server</summary>
   <summary xml:lang="nn">Klient-assistent for Rolisteam-tenar</summary>
+  <summary xml:lang="sl">Spremljevalec odjemalca strežnika Rolisteam</summary>
   <summary xml:lang="sv">Klientföljeslagare till Rolisteam-server</summary>
   <summary xml:lang="uk">Компаньйон-клієнт сервера Rolisteam</summary>
   <summary xml:lang="x-test">xxClient Companion to Rolisteam Serverxx</summary>
@@ -30,7 +36,9 @@
     <p xml:lang="ca">Aquest és l'executable del client Rolisteam que es pot usar autònomament com un servidor/client o connectar a una instància Roliserver (actualment una imatge Docker)</p>
     <p xml:lang="ca-valencia">Aquest és l'executable del client Rolisteam que es pot usar autònomament com un servidor/client o connectar a una instància Roliserver (actualment una imatge Docker)</p>
     <p xml:lang="es">Este es el binario cliente de Rolisteam que se puede usar de forma autónoma, como un servidor/cliente, o para conectarse a una instancia de Roliserver (una imagen de Docker en la actualidad).</p>
+    <p xml:lang="nl">Dit is het binaire programma Rolisteam-client die ofwel alleenstaand gebruikt kan worden als een server/client of zich verbindt naar een Roliserver-exemplaar (nu een docker-image)</p>
     <p xml:lang="nn">Detter Rolisteam-klientprogrammet, som kan brukast anten frittståande, som tenar/klient, eller som kan kopla til ein Roliserver-instans (førebels eit Docker-diskbilete).</p>
+    <p xml:lang="sl">To je izvajalni program Rolisteam, ki ga lahko uporabljate samostojno kot strežnik/odjemalec ali v povezavi s pojavkom Roliserver (trenutno kot slika dockerja)</p>
     <p xml:lang="sv">Detta är Rolisteam klientbinärfilen som antingen kan användas fristående som en server/klient eller ansluta till en Roliserver-instans (för närvarande en Docker-avbild)</p>
     <p xml:lang="uk">Це виконуваний файл клієнта Rolisteam, яким можна скористатися як окремим сервером/клієнтом або для з'єднання із екземпляром Roliserver (у поточній версії — образом docker)</p>
     <p xml:lang="x-test">xxThis is the Rolisteam Client Binary which can be used either standalone as a server/client or connect to a Roliserver instance (currently a docker image)xx</p>
