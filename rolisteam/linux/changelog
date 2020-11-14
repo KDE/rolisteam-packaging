@@ -1,3 +1,11 @@
+rolisteam (1.9.3ubuntu2) focal; urgency=medium
+
+  [Renaud Guezennec]
+  * Fix several crashes
+  * Fix slowness around fog of war
+
+ -- Renaud Guezennec <renaud@rolisteam.org>  Sat, 14 nov 2020 01:40:18 +0200
+
 rolisteam (1.9.3ubuntu1) focal; urgency=medium
 
   [Renaud Guezennec]
@@ -9,7 +17,7 @@ rolisteam (1.9.3ubuntu1) focal; urgency=medium
   * Update DiceParser
 
  -- Renaud Guezennec <renaud@rolisteam.org>  Mon, 02 Feb 2020 01:40:18 +0200
- 
+
 rolisteam (1.9.3ubuntu0) focal; urgency=medium
 
   [Renaud Guezennec]

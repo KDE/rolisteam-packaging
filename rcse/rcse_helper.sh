@@ -1,7 +1,7 @@
 #!/bin/sh
 
 VERSION=1.9.3
-PKGVERS=2
+PKGVERS=0
 beta=0
 
 rm -rf rolisteam
@@ -13,20 +13,20 @@ cd ..
 PACKAGING_ROLISTEAM_ROOT=`pwd`
 cd -
 
-ICON_PATH="rolisteam/resources/logo/rolisteam.svg"
-DESKTOP_FILE_PATH=$PACKAGING_ROLISTEAM_ROOT/rolisteam.desktop
+ICON_PATH="rolisteam/resources/logo/rcse.svg"
+DESKTOP_FILE_PATH=$PACKAGING_ROLISTEAM_ROOT/rcse.desktop
 
 
 
-git=git@invent.kde.org:rolisteam/rolisteam.git
+git=git@invent.kde.org:rolisteam/rcse.git
 gitpackaging=git@invent.kde.org:rolisteam/rolisteam-packaging.git
 
 
 dest=`mktemp -d -p ./`
 
 cd $dest
-DEBIAN_ROOT=$PACKAGING_ROLISTEAM_ROOT"/linux/ubuntu/debian"
-CHANGE_LOG=$PACKAGING_ROLISTEAM_ROOT"/linux/changelog"
+DEBIAN_ROOT=$PACKAGING_ROLISTEAM_ROOT"/debian"
+CHANGE_LOG=$PACKAGING_ROLISTEAM_ROOT"/changelog"
 git clone $gitpackaging
 
 if [  $# -gt 0 ]
@@ -34,7 +34,7 @@ then
 	for i in "$@"; do
 	        if [ "$i" = "appimage" ]
         	then
-		  export QML_SOURCES_PATHS="$PACKAGING_ROLISTEAM_ROOT/linux/$dest/rolisteam/client/charactersheet/qml"
+		  export QML_SOURCES_PATHS="$PACKAGING_ROLISTEAM_ROOT/linux/$dest/rcse/src/charactersheet/qml"
 		  git clone --recursive  $git
 			mkdir build
 			cd build
@@ -74,29 +74,25 @@ then
 			echo "Clone Rolisteam sources from GIT"
 			git clone --recursive  $git
 			echo "\nRename folder"
-			mv rolisteam rolisteam-$VERSION
-			echo "\nMove rolisteam.desktop to sources"
-			cp $DESKTOP_FILE_PATH rolisteam-$VERSION/
+			mv rcse rcse-$VERSION
+			echo "\nMove rcse.desktop to sources"
+			cp $DESKTOP_FILE_PATH rcse-$VERSION/
 			echo "\nMove debian folder into source"
-			cp -R $DEBIAN_ROOT rolisteam-$VERSION/
+			cp -R $DEBIAN_ROOT rcse-$VERSION/
 			echo "\nMove Changelog"
-			cp $CHANGE_LOG rolisteam-$VERSION/debian/
+			cp $CHANGE_LOG rcse-$VERSION/debian/
 			echo "\nStart build"
-			cd rolisteam-$VERSION
-			lrelease client/client.pro
+			cd rcse-$VERSION
+			lrelease rcse/rcse.pro
 			rm -rf packaging
 			rm -rf .git
 			#dch -i
 			#dpkg-buildpackage -rfakeroot
-      			echo "###################################"
-      			read
-      			read
-      			pwd
 			echo "y\n" | debuild -S -sa
 			cd ..
-			dput ppa:rolisteam/ppa rolisteam_${VERSION}ubuntu${PKGVERS}_source.changes
+			#dput ppa:rolisteam/ppa rcse_${VERSION}ubuntu${PKGVERS}_source.changes
 		 	#dput -f ppa:rolisteam/rolisteamdev rolisteam_${VERSION}ubuntu1~ppa$PKGVERS~beta${beta}_source.changes
-		 	#dput -f ppa:rolisteam/rolisteamdev rolisteam_${VERSION}ubuntu${PKGVERS}_source.changes
+		 	dput -f ppa:rolisteam/rolisteamdev rcse_${VERSION}ubuntu${PKGVERS}_source.changes
 		fi
 	done
 fi
