@@ -1,11 +1,11 @@
 rcse (1.9.3ubuntu0) focal; urgency=medium
 
-[Renaud Guezennec]
-* Fix several crashes
-* Add character selector on view tab
-* Fix some bugs.
+  [Renaud Guezennec]
+  * Fix several crashes
+  * Add character selector on view tab
+  * Fix some bugs.
 
--- Renaud Guezennec <renaud@rolisteam.org>  Sat, 14 nov 2020 01:40:18 +0200
+  -- Renaud Guezennec <renaud@rolisteam.org>  Sat, 14 nov 2020 01:40:18 +0200
 
 rcse (0.0.9ubuntu~ppa1~beta) xenial; urgency=medium
 

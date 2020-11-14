@@ -13,8 +13,8 @@ cd ..
 PACKAGING_ROLISTEAM_ROOT=`pwd`
 cd -
 
-ICON_PATH="rolisteam/resources/logo/rcse.svg"
-DESKTOP_FILE_PATH=$PACKAGING_ROLISTEAM_ROOT/rcse.desktop
+ICON_PATH="rcse/resources/logo/rcse.svg"
+DESKTOP_FILE_PATH=$PACKAGING_ROLISTEAM_ROOT/rcse/rcse.desktop
 
 
 
@@ -25,8 +25,8 @@ gitpackaging=git@invent.kde.org:rolisteam/rolisteam-packaging.git
 dest=`mktemp -d -p ./`
 
 cd $dest
-DEBIAN_ROOT=$PACKAGING_ROLISTEAM_ROOT"/debian"
-CHANGE_LOG=$PACKAGING_ROLISTEAM_ROOT"/changelog"
+DEBIAN_ROOT=$PACKAGING_ROLISTEAM_ROOT"/rcse/debian"
+CHANGE_LOG=$PACKAGING_ROLISTEAM_ROOT"/rcse/changelog"
 git clone $gitpackaging
 
 if [  $# -gt 0 ]
@@ -83,7 +83,7 @@ then
 			cp $CHANGE_LOG rcse-$VERSION/debian/
 			echo "\nStart build"
 			cd rcse-$VERSION
-			lrelease rcse/rcse.pro
+			lrelease rcse.pro
 			rm -rf packaging
 			rm -rf .git
 			#dch -i

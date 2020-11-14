@@ -10,7 +10,7 @@
 export DH_VERBOSE=1
 include /usr/share/cdbs/1/rules/debhelper.mk
 include /usr/share/cdbs/1/class/qmake.mk
-QMAKE=qmake rcse.pro
+QMAKE=qmake rcse.pro CONFIG+=release
 
 
 install/rcse::
@@ -18,8 +18,9 @@ install/rcse::
 	mkdir -p $(CURDIR)/debian/rcse/usr/bin/
 	mkdir -p $(CURDIR)/debian/rcse/usr/share/
 	mkdir -p $(CURDIR)/debian/rcse/usr/share/applications/
-	mkdir -p $(CURDIR)/debian/rcse/usr/share/app-install/
-	mkdir -p $(CURDIR)/debian/rcse/usr/share/app-install/icons/
+	mkdir -p $(CURDIR)/debian/rcse/usr/share/icons/hicolor/scalable/apps/
+	mkdir -p $(CURDIR)/debian/rcse/usr/share/icons/hicolor/48x48/apps/
 	cp $(CURDIR)/bin/rcse $(CURDIR)/debian/rcse/usr/bin/
-	cp $(CURDIR)/resources/logo/symbol2.png $(CURDIR)/debian/rcse/usr/share/app-install/icons/symbol2.png
+	cp $(CURDIR)/resources/logo/rcse.svg $(CURDIR)/debian/rcse/usr/share/icons/hicolor/scalable/apps/rcse.svg
+	cp $(CURDIR)/resources/logo/symbol2.png $(CURDIR)/debian/rolisteam/usr/share/icons/hicolor/48x48/apps/rcse.png
 	cp rcse.desktop $(CURDIR)/debian/rcse/usr/share/applications/
