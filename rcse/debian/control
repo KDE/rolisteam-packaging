@@ -16,7 +16,8 @@ Build-Depends: debhelper (>= 10),
                zlib1g-dev,
                qtwebengine5-dev,
                qtwebengine5-dev-tools,
-               libpoppler-qt5-1
+               libpoppler-qt5-1,
+               libpoppler-qt5-dev
 Standards-Version: 3.8.0
 Homepage: http://www.rolisteam.org
 
@@ -37,10 +38,10 @@ Depends: libqt5core5a,
          libqt5webengine5,
          libqt5webenginecore5,
          libqt5webenginewidgets5,
-         ibpoppler-qt5-1,
+         libpoppler-qt5-1,
+         libpoppler-qt5-dev,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: Manage easily your role playing games
  Rolisteam can help you to manage a role playing game. It allows you to share
  maps with your players, private or global chat and control music player.
-

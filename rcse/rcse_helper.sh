@@ -83,7 +83,7 @@ then
 			cp $CHANGE_LOG rcse-$VERSION/debian/
 			echo "\nStart build"
 			cd rcse-$VERSION
-			lrelease rcse.pro
+			lrelease src/src.pro
 			rm -rf packaging
 			rm -rf .git
 			#dch -i
