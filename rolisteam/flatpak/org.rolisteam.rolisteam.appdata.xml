@@ -8,6 +8,7 @@
   <name xml:lang="en-GB">Rolisteam RPG Client</name>
   <name xml:lang="es">Cliente RPG de Rolisteam</name>
   <name xml:lang="fr">Client « Rolisteam »</name>
+  <name xml:lang="it">Client RPG Rolisteam</name>
   <name xml:lang="nl">Rolisteam RPG-client</name>
   <name xml:lang="nn">Rolisteam RPG-klient</name>
   <name xml:lang="pt">Cliente de RPG Rolisteam</name>
@@ -23,6 +24,7 @@
   <developer_name xml:lang="en-GB">Rolisteam</developer_name>
   <developer_name xml:lang="es">Rolisteam</developer_name>
   <developer_name xml:lang="fr">Rolisteam</developer_name>
+  <developer_name xml:lang="it">Rolisteam</developer_name>
   <developer_name xml:lang="nl">Rolisteam</developer_name>
   <developer_name xml:lang="nn">Rolisteam</developer_name>
   <developer_name xml:lang="pt">Rolisteam</developer_name>
@@ -39,6 +41,7 @@
   <summary xml:lang="en-GB">Client Companion to Rolisteam Server</summary>
   <summary xml:lang="es">Cliente complementario para el servidor Rolisteam</summary>
   <summary xml:lang="fr">Client « Companion » au serveur « Rolisteam »</summary>
+  <summary xml:lang="it">Client per il server Rolisteam</summary>
   <summary xml:lang="nl">Client-compagnon naar Rolisteam-server</summary>
   <summary xml:lang="nn">Klient-assistent for Rolisteam-tenar</summary>
   <summary xml:lang="pt">Cliente-Companheiro do Servidor do Rolisteam</summary>
@@ -54,6 +57,7 @@
     <p xml:lang="en-GB">This is the Rolisteam Client Binary which can be used either standalone as a server/client or connect to a Roliserver instance (currently a docker image)</p>
     <p xml:lang="es">Este es el binario cliente de Rolisteam que se puede usar de forma autónoma, como un servidor/cliente, o para conectarse a una instancia de Roliserver (una imagen de Docker en la actualidad).</p>
     <p xml:lang="fr">Ceci est un binaire du client « Rolisteam », pouvant être utilisé soit de façon autonome comme serveur / client ou soit avec une connexion à une instance « Roliserver » (actuellement un image « docker »).</p>
+    <p xml:lang="it">Questo è il file binario del client Rolisteam che può essere utilizzato da solo come server/client o connettersi a un'istanza Roliserver (attualmente un'immagine docker)</p>
     <p xml:lang="nl">Dit is het binaire programma Rolisteam-client die ofwel alleenstaand gebruikt kan worden als een server/client of zich verbindt naar een Roliserver-exemplaar (nu een docker-image)</p>
     <p xml:lang="nn">Detter Rolisteam-klientprogrammet, som kan brukast anten frittståande, som tenar/klient, eller som kan kopla til ein Roliserver-instans (førebels eit Docker-diskbilete).</p>
     <p xml:lang="pt">Este é o executável do cliente do Rolisteam que poderá ser usado de forma autónoma como cliente/servidor ou ligar-se a uma instância do Roliserver (de momento, uma imagem do Docker)</p>
