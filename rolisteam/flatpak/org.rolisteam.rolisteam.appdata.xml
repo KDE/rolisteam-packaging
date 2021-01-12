@@ -45,6 +45,7 @@
   <summary xml:lang="nl">Client-compagnon naar Rolisteam-server</summary>
   <summary xml:lang="nn">Klient-assistent for Rolisteam-tenar</summary>
   <summary xml:lang="pt">Cliente-Companheiro do Servidor do Rolisteam</summary>
+  <summary xml:lang="pt-BR">Cliente companheiro do servidor Rolisteam</summary>
   <summary xml:lang="sl">Spremljevalec odjemalca strežnika Rolisteam</summary>
   <summary xml:lang="sv">Klientföljeslagare till Rolisteam-server</summary>
   <summary xml:lang="uk">Компаньйон-клієнт сервера Rolisteam</summary>
@@ -61,6 +62,7 @@
     <p xml:lang="nl">Dit is het binaire programma Rolisteam-client die ofwel alleenstaand gebruikt kan worden als een server/client of zich verbindt naar een Roliserver-exemplaar (nu een docker-image)</p>
     <p xml:lang="nn">Detter Rolisteam-klientprogrammet, som kan brukast anten frittståande, som tenar/klient, eller som kan kopla til ein Roliserver-instans (førebels eit Docker-diskbilete).</p>
     <p xml:lang="pt">Este é o executável do cliente do Rolisteam que poderá ser usado de forma autónoma como cliente/servidor ou ligar-se a uma instância do Roliserver (de momento, uma imagem do Docker)</p>
+    <p xml:lang="pt-BR">Este é o executável do cliente Rolisteam que pode ser usado independente como um servidor/cliente ou conectar a uma instância do Rolisteam (atualmente uma imagem docker)</p>
     <p xml:lang="sl">To je izvajalni program Rolisteam, ki ga lahko uporabljate samostojno kot strežnik/odjemalec ali v povezavi s pojavkom Roliserver (trenutno kot slika dockerja)</p>
     <p xml:lang="sv">Detta är Rolisteam klientbinärfilen som antingen kan användas fristående som en server/klient eller ansluta till en Roliserver-instans (för närvarande en Docker-avbild)</p>
     <p xml:lang="uk">Це виконуваний файл клієнта Rolisteam, яким можна скористатися як окремим сервером/клієнтом або для з'єднання із екземпляром Roliserver (у поточній версії — образом docker)</p>
