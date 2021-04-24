@@ -7,6 +7,8 @@ beta=0
 rm -rf roliserver
 rm -rf rolisteam-packaging
 
+rm -rf tmp.*
+
 GIT_BRANCH="stable"
 cd ..
 PACKAGING_ROLISTEAM_ROOT=`pwd`
@@ -82,7 +84,7 @@ then
 			cp $CHANGE_LOG rolisteam-$VERSION/debian/
 			cp $CONFIG_FILE rolisteam-$VERSION/
 
-			
+
 			echo "\nStart build"
 			cd rolisteam-$VERSION
 			lrelease server/server.pro
@@ -93,7 +95,7 @@ then
       		pwd
 			#echo "y\n" | debuild -S -sa
 			cd ..
-			#dput ppa:rolisteam/ppa rolisteam_${VERSION}ubuntu${PKGVERS}_source.changes
+			#dput ppa:rolisteam/ppa roliserver_${VERSION}ubuntu${PKGVERS}_source.changes
 		 	#dput -f ppa:rolisteam/rolisteamdev rolisteam_${VERSION}ubuntu1~ppa$PKGVERS~beta${beta}_source.changes
 		 	#dput -f ppa:rolisteam/rolisteamdev rolisteam_${VERSION}ubuntu${PKGVERS}_source.changes
 		fi
