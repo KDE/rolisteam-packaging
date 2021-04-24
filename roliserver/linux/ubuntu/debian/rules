@@ -18,5 +18,5 @@ install/roliserver::
 	mkdir -p $(CURDIR)/debian/roliserver/usr/bin/
 	mkdir -p $(CURDIR)/debian/roliserver/usr/share/applications/roliserver/
 	cp $(CURDIR)/bin/roliserver $(CURDIR)/debian/roliserver/usr/bin/
-	cp $(CURDIR)/default.conf $(CURDIR)/debian/roliserver/usr/share/applications/roliserver/
+#	cp $(CURDIR)/default.conf $(CURDIR)/debian/roliserver/usr/share/applications/roliserver/
 #	cp rolisteam.desktop $(CURDIR)/debian/rolisteam/usr/share/applications/
