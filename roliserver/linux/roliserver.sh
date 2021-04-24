@@ -26,6 +26,7 @@ dest=`mktemp -d -p ./`
 cd $dest
 DEBIAN_ROOT=$PACKAGING_ROLISTEAM_ROOT"/linux/ubuntu/debian"
 CHANGE_LOG=$PACKAGING_ROLISTEAM_ROOT"/linux/changelog"
+CONFIG_FILE=$PACKAGING_ROLISTEAM_ROOT"/default.conf"
 git clone $gitpackaging
 
 if [  $# -gt 0 ]
@@ -74,12 +75,14 @@ then
 		then
 			echo "Clone Rolisteam sources from GIT"
 			git clone -b $GIT_BRANCH --recursive  $git
-			echo "\nRename folder"
+			
+			echo "\nMove Files"
 			mv rolisteam rolisteam-$VERSION
-			echo "\nMove debian folder into source"
 			cp -R $DEBIAN_ROOT rolisteam-$VERSION/
-			echo "\nMove Changelog"
 			cp $CHANGE_LOG rolisteam-$VERSION/debian/
+			cp $CONFIG_FILE rolisteam-$VERSION/
+
+			
 			echo "\nStart build"
 			cd rolisteam-$VERSION
 			lrelease server/server.pro
