@@ -1,6 +1,5 @@
-?package(rolisteam):\
-	  needs="X11"\
+?package(roliserver):\
 	  section="Applications/Games"\
-	  title="Rolisteam"\
-	  command="/usr/bin/rolisteam"
+	  title="roliserver"\
+	  command="/usr/bin/roliserver"
 
