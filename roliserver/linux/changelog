@@ -1,0 +1,11 @@
+roliserver (1.9.3ubuntu0) focal; urgency=medium
+
+  [Renaud Guezennec]
+  * Fix url to website
+  * Fix url to documentation
+  * Preventing crashes on playerlist
+  * Fix crashes in participantsModel
+  * Improve output message on the server
+  * Update DiceParser
+
+ -- Renaud Guezennec <renaud@rolisteam.org>  Mon, 02 Feb 2020 01:40:18 +0200
