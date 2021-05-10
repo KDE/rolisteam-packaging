@@ -12,6 +12,7 @@
   <name xml:lang="it">Client RPG Rolisteam</name>
   <name xml:lang="nl">Rolisteam RPG-client</name>
   <name xml:lang="nn">Rolisteam RPG-klient</name>
+  <name xml:lang="pl">Program RPG Rolisteam</name>
   <name xml:lang="pt">Cliente de RPG Rolisteam</name>
   <name xml:lang="pt-BR">Cliente RPG Rolisteam</name>
   <name xml:lang="sl">Odjemalec Rolisteam RPG</name>
@@ -30,6 +31,7 @@
   <developer_name xml:lang="it">Rolisteam</developer_name>
   <developer_name xml:lang="nl">Rolisteam</developer_name>
   <developer_name xml:lang="nn">Rolisteam</developer_name>
+  <developer_name xml:lang="pl">Rolisteam</developer_name>
   <developer_name xml:lang="pt">Rolisteam</developer_name>
   <developer_name xml:lang="pt-BR">Rolisteam</developer_name>
   <developer_name xml:lang="sk">Rolisteam</developer_name>
@@ -48,6 +50,7 @@
   <summary xml:lang="it">Client per il server Rolisteam</summary>
   <summary xml:lang="nl">Client-compagnon naar Rolisteam-server</summary>
   <summary xml:lang="nn">Klient-assistent for Rolisteam-tenar</summary>
+  <summary xml:lang="pl">Program do serwera Rolisteam</summary>
   <summary xml:lang="pt">Cliente-Companheiro do Servidor do Rolisteam</summary>
   <summary xml:lang="pt-BR">Cliente companheiro do servidor Rolisteam</summary>
   <summary xml:lang="sl">Spremljevalec odjemalca strežnika Rolisteam</summary>
@@ -66,6 +69,7 @@
     <p xml:lang="it">Questo è il file binario del client Rolisteam che può essere utilizzato da solo come server/client o connettersi a un'istanza Roliserver (attualmente un'immagine docker)</p>
     <p xml:lang="nl">Dit is het binaire programma Rolisteam-client die ofwel alleenstaand gebruikt kan worden als een server/client of zich verbindt naar een Roliserver-exemplaar (nu een docker-image)</p>
     <p xml:lang="nn">Detter Rolisteam-klientprogrammet, som kan brukast anten frittståande, som tenar/klient, eller som kan kopla til ein Roliserver-instans (førebels eit Docker-diskbilete).</p>
+    <p xml:lang="pl">Oto program do Rolisteam, którego można używać jako w trybie wolnostojącym, jako serwer/klient lub do podłączenia się do wystąpienia Roliserver (obecnie obraz dockera)</p>
     <p xml:lang="pt">Este é o executável do cliente do Rolisteam que poderá ser usado de forma autónoma como cliente/servidor ou ligar-se a uma instância do Roliserver (de momento, uma imagem do Docker)</p>
     <p xml:lang="pt-BR">Este é o executável do cliente Rolisteam que pode ser usado independente como um servidor/cliente ou conectar a uma instância do Rolisteam (atualmente uma imagem docker)</p>
     <p xml:lang="sl">To je izvajalni program Rolisteam, ki ga lahko uporabljate samostojno kot strežnik/odjemalec ali v povezavi s pojavkom Roliserver (trenutno kot slika dockerja)</p>
