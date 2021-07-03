@@ -75,7 +75,7 @@
     <p xml:lang="en-GB">This is the Rolisteam Client Binary which can be used either standalone as a server/client or connect to a Roliserver instance (currently a docker image)</p>
     <p xml:lang="es">Este es el binario cliente de Rolisteam que se puede usar de forma autónoma, como un servidor/cliente, o para conectarse a una instancia de Roliserver (una imagen de Docker en la actualidad).</p>
     <p xml:lang="fr">Ceci est un binaire du client « Rolisteam », pouvant être utilisé soit de façon autonome comme serveur / client ou soit avec une connexion à une instance « Roliserver » (actuellement un image « docker »).</p>
-    <p xml:lang="hi">यह एक रोलीस्टीम क्लाएंट बाइनरी है, जिसका उपयोग आप या तो अकेले सर्वर/क्लाएंट रूप में कर सकते हैं या तो आप रोलीसर्वर इंसटेंस से जुड़ सकते हैं (वर्तमान में एक डॉकर छवि)।</p>
+    <p xml:lang="hi">यह एक रोलीस्टीम क्लाएंट बाइनरी है, जिसका उपयोग आप या तो स्वतंत्र सर्वर/क्लाएंट रूप में कर सकते हैं या तो आप रोलीसर्वर इंसटेंस से जुड़ सकते हैं (वर्तमान में एक डॉकर छवि)।</p>
     <p xml:lang="id">Ini adalah Rolisteam Client Binary yang bisa digunakan sendiri sebagai server/klien atau terhubung ke instansi Roliserver (saat ini merupakan sebuah citra docker)</p>
     <p xml:lang="it">Questo è il file binario del client Rolisteam che può essere utilizzato da solo come server/client o connettersi a un'istanza Roliserver (attualmente un'immagine docker)</p>
     <p xml:lang="ko">단독 서버/클라이언트로 사용하거나 Roliserver 인스턴스(현재 Docker 이미지로 제공됨)에 연결할 수 있는 Rolistream 클라이언트 실행 파일</p>
