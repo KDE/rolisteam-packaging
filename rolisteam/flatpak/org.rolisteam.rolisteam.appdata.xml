@@ -8,6 +8,7 @@
   <name xml:lang="de">Rolisteam RPG Client</name>
   <name xml:lang="en-GB">Rolisteam RPG Client</name>
   <name xml:lang="es">Cliente RPG de Rolisteam</name>
+  <name xml:lang="fi">Rolisteam-roolipeliasiakas</name>
   <name xml:lang="fr">Client « Rolisteam »</name>
   <name xml:lang="hi">रोलीस्टीम आरपीजी क्लाएंट</name>
   <name xml:lang="id">Rolisteam RPG Client</name>
@@ -30,6 +31,7 @@
   <developer_name xml:lang="de">Rolisteam</developer_name>
   <developer_name xml:lang="en-GB">Rolisteam</developer_name>
   <developer_name xml:lang="es">Rolisteam</developer_name>
+  <developer_name xml:lang="fi">Rolisteam</developer_name>
   <developer_name xml:lang="fr">Rolisteam</developer_name>
   <developer_name xml:lang="hi">रोलीस्टीम</developer_name>
   <developer_name xml:lang="id">Rolisteam</developer_name>
@@ -52,6 +54,7 @@
   <summary xml:lang="de">Client-Dienstprogramm zum Rolisteam-Server</summary>
   <summary xml:lang="en-GB">Client Companion to Rolisteam Server</summary>
   <summary xml:lang="es">Cliente complementario para el servidor Rolisteam</summary>
+  <summary xml:lang="fi">Rolisteam-palvelimen asiakasapuohjelma</summary>
   <summary xml:lang="fr">Client « Companion » au serveur « Rolisteam »</summary>
   <summary xml:lang="hi">रोलीस्टीम सर्वर के लिए एक क्लाएंट साथी</summary>
   <summary xml:lang="id">Client Companion untuk Rolisteam Server</summary>
@@ -74,6 +77,7 @@
     <p xml:lang="de">Dies ist das Rolisteam-Client-Programm, das entweder eigenständig als Server/Client verwendet werden kann oder sich mit einer Roliserver-Instanz (derzeit ein Docker-Image) verbinden kann</p>
     <p xml:lang="en-GB">This is the Rolisteam Client Binary which can be used either standalone as a server/client or connect to a Roliserver instance (currently a docker image)</p>
     <p xml:lang="es">Este es el binario cliente de Rolisteam que se puede usar de forma autónoma, como un servidor/cliente, o para conectarse a una instancia de Roliserver (una imagen de Docker en la actualidad).</p>
+    <p xml:lang="fi">Tämä on Rolisteam-asiakasohjelma, jota voi käyttää itsenäisenä palvelin- tai asiakasohjelmana tai yhdistää Roliserver-instanssiin (nykyisellään Docker-kuvaan)</p>
     <p xml:lang="fr">Ceci est un binaire du client « Rolisteam », pouvant être utilisé soit de façon autonome comme serveur / client ou soit avec une connexion à une instance « Roliserver » (actuellement un image « docker »).</p>
     <p xml:lang="hi">यह एक रोलीस्टीम क्लाएंट बाइनरी है, जिसका उपयोग आप या तो स्वतंत्र सर्वर/क्लाएंट रूप में कर सकते हैं या तो आप रोलीसर्वर इंसटेंस से जुड़ सकते हैं (वर्तमान में एक डॉकर छवि)।</p>
     <p xml:lang="id">Ini adalah Rolisteam Client Binary yang bisa digunakan sendiri sebagai server/klien atau terhubung ke instansi Roliserver (saat ini merupakan sebuah citra docker)</p>
