@@ -21,6 +21,7 @@
   <name xml:lang="pt-BR">Cliente RPG Rolisteam</name>
   <name xml:lang="sl">Odjemalec Rolisteam RPG</name>
   <name xml:lang="sv">Rolisteam rollspelsklient</name>
+  <name xml:lang="tr">Rolisteam RPG İstemcisi</name>
   <name xml:lang="uk">Клієнт RPG Rolisteam</name>
   <name xml:lang="x-test">xxRolisteam RPG Clientxx</name>
   <developer_name>Rolisteam</developer_name>
@@ -45,6 +46,7 @@
   <developer_name xml:lang="sk">Rolisteam</developer_name>
   <developer_name xml:lang="sl">Rolisteam</developer_name>
   <developer_name xml:lang="sv">Rolisteam</developer_name>
+  <developer_name xml:lang="tr">Rolistaem</developer_name>
   <developer_name xml:lang="uk">Rolisteam</developer_name>
   <developer_name xml:lang="x-test">xxRolisteamxx</developer_name>
   <summary>Client Companion to Rolisteam Server</summary>
@@ -67,13 +69,14 @@
   <summary xml:lang="pt-BR">Cliente companheiro do servidor Rolisteam</summary>
   <summary xml:lang="sl">Spremljevalec odjemalca strežnika Rolisteam</summary>
   <summary xml:lang="sv">Klientföljeslagare till Rolisteam-server</summary>
+  <summary xml:lang="tr">Rolisteam Sunucusu için Yardımcı İstemci</summary>
   <summary xml:lang="uk">Компаньйон-клієнт сервера Rolisteam</summary>
   <summary xml:lang="x-test">xxClient Companion to Rolisteam Serverxx</summary>
   <description>
     <p>This is the Rolisteam Client Binary which can be used either standalone as a server/client or connect to a Roliserver instance (currently a docker image)</p>
     <p xml:lang="az">Bu Rolisteam Müştəri binar faylıdır, hansı ki, ondan müstəqil server/müştəri, həmçinin Rolisteam nümunəsinə ( hal-hazırda bu bir doker sürətidir) bağlanmaq üçün istifadə etmək olar.</p>
     <p xml:lang="ca">Aquest és l'executable del client Rolisteam que es pot usar autònomament com un servidor/client o connectar a una instància Roliserver (actualment una imatge Docker)</p>
-    <p xml:lang="ca-valencia">Este és l'executable del client Rolisteam que es pot usar autònomament com un servidor/client o connectar a una instància Roliserver (actualment una imatge Docker)</p>
+    <p xml:lang="ca-valencia">Este és l'executable del client Rolisteam que es pot utilitzar autònomament com un servidor/client o connectar a una instància Roliserver (actualment una imatge Docker)</p>
     <p xml:lang="de">Dies ist das Rolisteam-Client-Programm, das entweder eigenständig als Server/Client verwendet werden kann oder sich mit einer Roliserver-Instanz (derzeit ein Docker-Image) verbinden kann</p>
     <p xml:lang="en-GB">This is the Rolisteam Client Binary which can be used either standalone as a server/client or connect to a Roliserver instance (currently a docker image)</p>
     <p xml:lang="es">Este es el binario cliente de Rolisteam que se puede usar de forma autónoma, como un servidor/cliente, o para conectarse a una instancia de Roliserver (una imagen de Docker en la actualidad).</p>
@@ -90,6 +93,7 @@
     <p xml:lang="pt-BR">Este é o executável do cliente Rolisteam que pode ser usado independente como um servidor/cliente ou conectar a uma instância do Rolisteam (atualmente uma imagem docker)</p>
     <p xml:lang="sl">To je izvajalni program Rolisteam, ki ga lahko uporabljate samostojno kot strežnik/odjemalec ali v povezavi s pojavkom Roliserver (trenutno kot slika dockerja)</p>
     <p xml:lang="sv">Detta är Rolisteam klientbinärfilen som antingen kan användas fristående som en server/klient eller ansluta till en Roliserver-instans (för närvarande en Docker-avbild)</p>
+    <p xml:lang="tr">Bu, bir Roliserver örneğine bağlanabilen veya tek başına bir sunucu veya istemci olarak çalışabiler Rolisteam İstemci İkilisidir (şu anda bir Docker yansısı olarak)</p>
     <p xml:lang="uk">Це виконуваний файл клієнта Rolisteam, яким можна скористатися як окремим сервером/клієнтом або для з'єднання із екземпляром Roliserver (у поточній версії — образом docker)</p>
     <p xml:lang="x-test">xxThis is the Rolisteam Client Binary which can be used either standalone as a server/client or connect to a Roliserver instance (currently a docker image)xx</p>
   </description>
