@@ -13,6 +13,7 @@
   <name xml:lang="hi">रोलीस्टीम आरपीजी क्लाएंट</name>
   <name xml:lang="id">Rolisteam RPG Client</name>
   <name xml:lang="it">Client RPG Rolisteam</name>
+  <name xml:lang="ka">Rolisteam RPG კლიენტი</name>
   <name xml:lang="ko">Rolisteam RPG 클라이언트</name>
   <name xml:lang="nl">Rolisteam RPG-client</name>
   <name xml:lang="nn">Rolisteam RPG-klient</name>
@@ -37,6 +38,7 @@
   <developer_name xml:lang="hi">रोलीस्टीम</developer_name>
   <developer_name xml:lang="id">Rolisteam</developer_name>
   <developer_name xml:lang="it">Rolisteam</developer_name>
+  <developer_name xml:lang="ka">Rolisteam</developer_name>
   <developer_name xml:lang="ko">Rolisteam</developer_name>
   <developer_name xml:lang="nl">Rolisteam</developer_name>
   <developer_name xml:lang="nn">Rolisteam</developer_name>
@@ -61,6 +63,7 @@
   <summary xml:lang="hi">रोलीस्टीम सर्वर के लिए एक क्लाएंट साथी</summary>
   <summary xml:lang="id">Client Companion untuk Rolisteam Server</summary>
   <summary xml:lang="it">Client per il server Rolisteam</summary>
+  <summary xml:lang="ka">კლიენტის გამყოლი Rolisteam-ის სერვერამდე</summary>
   <summary xml:lang="ko">Rolistream 서버에 연결하는 클라이언트</summary>
   <summary xml:lang="nl">Client-compagnon naar Rolisteam-server</summary>
   <summary xml:lang="nn">Klient-assistent for Rolisteam-tenar</summary>
@@ -85,6 +88,7 @@
     <p xml:lang="hi">यह एक रोलीस्टीम क्लाएंट बाइनरी है, जिसका उपयोग आप या तो स्वतंत्र सर्वर/क्लाएंट रूप में कर सकते हैं या तो आप रोलीसर्वर इंसटेंस से जुड़ सकते हैं (वर्तमान में एक डॉकर छवि)।</p>
     <p xml:lang="id">Ini adalah Rolisteam Client Binary yang bisa digunakan sendiri sebagai server/klien atau terhubung ke instansi Roliserver (saat ini merupakan sebuah citra docker)</p>
     <p xml:lang="it">Questo è il file binario del client Rolisteam che può essere utilizzato da solo come server/client o connettersi a un'istanza Roliserver (attualmente un'immagine docker)</p>
+    <p xml:lang="ka">Rolisteam კლიენტის პროგრამა, რომელიც როგორც ცალკე, ისევ კლიენტ/სერვერად შეგიძლიათ გამოიყენოთ. ასევე შეგიძლიათ დაუკავშირდეთ Roliserver-ის გაშვებულ ასლსაც (როგორც წესი, docker-ის გამოსახულება)</p>
     <p xml:lang="ko">단독 서버/클라이언트로 사용하거나 Roliserver 인스턴스(현재 Docker 이미지로 제공됨)에 연결할 수 있는 Rolistream 클라이언트 실행 파일</p>
     <p xml:lang="nl">Dit is het binaire programma Rolisteam-client die ofwel alleenstaand gebruikt kan worden als een server/client of zich verbindt naar een Roliserver-exemplaar (nu een docker-image)</p>
     <p xml:lang="nn">Detter Rolisteam-klientprogrammet, som kan brukast anten frittståande, som tenar/klient, eller som kan kopla til ein Roliserver-instans (førebels eit Docker-diskbilete).</p>
