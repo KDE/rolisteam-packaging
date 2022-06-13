@@ -79,7 +79,7 @@
     <p>This is the Rolisteam Client Binary which can be used either standalone as a server/client or connect to a Roliserver instance (currently a docker image)</p>
     <p xml:lang="az">Bu Rolisteam Müştəri binar faylıdır, hansı ki, ondan müstəqil server/müştəri, həmçinin Rolisteam nümunəsinə ( hal-hazırda bu bir doker sürətidir) bağlanmaq üçün istifadə etmək olar.</p>
     <p xml:lang="ca">Aquest és l'executable del client Rolisteam que es pot usar autònomament com un servidor/client o connectar a una instància Roliserver (actualment una imatge Docker)</p>
-    <p xml:lang="ca-valencia">Este és l'executable del client Rolisteam que es pot utilisar autònomament com un servidor/client o connectar a una instància Roliserver (actualment una image Docker)</p>
+    <p xml:lang="ca-valencia">Este és l'executable del client Rolisteam que es pot utilitzar autònomament com un servidor/client o connectar a una instància Roliserver (actualment una imatge Docker)</p>
     <p xml:lang="de">Dies ist das Rolisteam-Client-Programm, das entweder eigenständig als Server/Client verwendet werden kann oder sich mit einer Roliserver-Instanz (derzeit ein Docker-Image) verbinden kann</p>
     <p xml:lang="en-GB">This is the Rolisteam Client Binary which can be used either standalone as a server/client or connect to a Roliserver instance (currently a docker image)</p>
     <p xml:lang="es">Este es el binario cliente de Rolisteam que se puede usar de forma autónoma, como un servidor/cliente, o para conectarse a una instancia de Roliserver (una imagen de Docker en la actualidad).</p>
