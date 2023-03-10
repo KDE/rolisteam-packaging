@@ -95,7 +95,7 @@
     <p xml:lang="ka">Rolisteam კლიენტის პროგრამა, რომელიც როგორც ცალკე, ისევ კლიენტ/სერვერად შეგიძლიათ გამოიყენოთ. ასევე შეგიძლიათ დაუკავშირდეთ Roliserver-ის გაშვებულ ასლსაც (როგორც წესი, docker-ის გამოსახულება)</p>
     <p xml:lang="ko">단독 서버/클라이언트로 사용하거나 Roliserver 인스턴스(현재 Docker 이미지로 제공됨)에 연결할 수 있는 Rolistream 클라이언트 실행 파일</p>
     <p xml:lang="nl">Dit is het binaire programma Rolisteam-client die ofwel alleenstaand gebruikt kan worden als een server/client of zich verbindt naar een Roliserver-exemplaar (nu een docker-image)</p>
-    <p xml:lang="nn">Detter Rolisteam-klientprogrammet, som kan brukast anten frittståande, som tenar/klient, eller som kan kopla til ein Roliserver-instans (førebels eit Docker-diskbilete).</p>
+    <p xml:lang="nn">Dette er Rolisteam-klientprogrammet, som kan brukast anten frittståande, som tenar/klient, eller som kan kopla til ein Roliserver-instans (førebels eit Docker-diskbilete).</p>
     <p xml:lang="pl">Oto program do Rolisteam, którego można używać jako w trybie wolnostojącym, jako serwer/klient lub do podłączenia się do wystąpienia Roliserver (obecnie obraz dockera)</p>
     <p xml:lang="pt">Este é o executável do cliente do Rolisteam que poderá ser usado de forma autónoma como cliente/servidor ou ligar-se a uma instância do Roliserver (de momento, uma imagem do Docker)</p>
     <p xml:lang="pt-BR">Este é o executável do cliente Rolisteam que pode ser usado independente como um servidor/cliente ou conectar a uma instância do Rolisteam (atualmente uma imagem docker)</p>
