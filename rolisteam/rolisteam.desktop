@@ -4,6 +4,7 @@ X-AppInstall-Section=universe
 
 Type=Application
 Name=Rolisteam
+Name[ast]=Rolisteam
 Name[az]=Rolisteam
 Name[ca]=Rolisteam
 Name[ca@valencia]=Rolisteam
