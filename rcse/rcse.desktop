@@ -4,6 +4,7 @@ X-AppInstall-Section=universe
 
 Type=Application
 Name=RCSE
+Name[ast]=RCSE
 Name[az]=RCSE
 Name[ca]=RCSE
 Name[ca@valencia]=RCSE
