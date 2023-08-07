@@ -71,7 +71,7 @@
   <summary xml:lang="eu">Rolisteam zerbitzariaren bezero laguntzailea</summary>
   <summary xml:lang="fi">Rolisteam-palvelimen asiakasapuohjelma</summary>
   <summary xml:lang="fr">Client « Companion » au serveur « Rolisteam »</summary>
-  <summary xml:lang="gl">Cliente acompañante de servidor de Rolistream</summary>
+  <summary xml:lang="gl">Cliente acompañante de servidor de Rolistream.</summary>
   <summary xml:lang="hi">रोलीस्टीम सर्वर के लिए एक क्लाएंट साथी</summary>
   <summary xml:lang="ia">Companion Cliente a Servitor de Rolisteam</summary>
   <summary xml:lang="id">Client Companion untuk Rolisteam Server</summary>
@@ -100,7 +100,7 @@
     <p xml:lang="eu">Hau da Rolisteam bezeroaren bitarra, zerbitzari autonomo bezala, zerbitzari/bezero gisa, edo Roliserver instantzia batera (une honetan docker irudi bat) konektatuz erabil daiteke.</p>
     <p xml:lang="fi">Tämä on Rolisteam-asiakasohjelma, jota voi käyttää itsenäisenä palvelin- tai asiakasohjelmana tai yhdistää Roliserver-instanssiin (nykyisellään Docker-kuvaan)</p>
     <p xml:lang="fr">Ceci est un binaire du client « Rolisteam », pouvant être utilisé soit de façon autonome comme serveur / client ou soit avec une connexion à une instance « Roliserver » (actuellement un image « docker »).</p>
-    <p xml:lang="gl">Este é o binario do cliente de Rolistream que pode usarse independentemente como servidor e cliente ou conectar a unha instancia de Roliserver (actualmente unha imaxe de Docker)</p>
+    <p xml:lang="gl">Este é o binario do cliente de Rolistream que pode usarse independentemente como servidor e cliente ou conectar a unha instancia de Roliserver (actualmente unha imaxe de Docker).</p>
     <p xml:lang="hi">यह एक रोलीस्टीम क्लाएंट बाइनरी है, जिसका उपयोग आप या तो स्वतंत्र सर्वर/क्लाएंट रूप में कर सकते हैं या तो आप रोलीसर्वर इंसटेंस से जुड़ सकते हैं (वर्तमान में एक डॉकर छवि)।</p>
     <p xml:lang="ia">Isto es le Rolisteam Client Binary (Binari de Cliente de Rolisteam) que pote esser usate o autonome o como servitor/cliente o connecte a instantia de Roliserver (currentemente un imagine docker)</p>
     <p xml:lang="id">Ini adalah Rolisteam Client Binary yang bisa digunakan sendiri sebagai server/klien atau terhubung ke instansi Roliserver (saat ini merupakan sebuah citra docker)</p>
