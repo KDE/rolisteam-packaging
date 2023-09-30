@@ -26,6 +26,7 @@
   <name xml:lang="pt">Cliente de RPG Rolisteam</name>
   <name xml:lang="pt-BR">Cliente RPG Rolisteam</name>
   <name xml:lang="sa">रोलिस्टीम् RPG क्लाइंट</name>
+  <name xml:lang="sk">Klient Rolisteam RPG</name>
   <name xml:lang="sl">Odjemalec Rolisteam RPG</name>
   <name xml:lang="sv">Rolisteam rollspelsklient</name>
   <name xml:lang="tr">Rolisteam RPG İstemcisi</name>
@@ -89,6 +90,7 @@
   <summary xml:lang="pt">Cliente-Companheiro do Servidor do Rolisteam</summary>
   <summary xml:lang="pt-BR">Cliente companheiro do servidor Rolisteam</summary>
   <summary xml:lang="sa">Rolisteam Server कृते Client Companion इति</summary>
+  <summary xml:lang="sk">Sprievodca klienta k serveru Rolisteam</summary>
   <summary xml:lang="sl">Spremljevalec odjemalca strežnika Rolisteam</summary>
   <summary xml:lang="sv">Klientföljeslagare till Rolisteam-server</summary>
   <summary xml:lang="tr">Rolisteam Sunucusu için Yardımcı İstemci</summary>
@@ -120,6 +122,7 @@
     <p xml:lang="pt">Este é o executável do cliente do Rolisteam que poderá ser usado de forma autónoma como cliente/servidor ou ligar-se a uma instância do Roliserver (de momento, uma imagem do Docker)</p>
     <p xml:lang="pt-BR">Este é o executável do cliente Rolisteam que pode ser usado independente como um servidor/cliente ou conectar a uma instância do Rolisteam (atualmente uma imagem docker)</p>
     <p xml:lang="sa">इदं Rolisteam Client Binary अस्ति यस्य उपयोगः सर्वर/क्लायन्ट् इत्यस्य रूपेण स्वतन्त्रः अथवा Roliserver उदाहरणेन सह सम्बद्धं कर्तुं शक्यते (वर्तमानं docker छवि) ।</p>
+    <p xml:lang="sk">Toto je spustiteľný súbor klienta Rolisteam, ktorý možno použiť buď samostatne ako server/klient, alebo sa pripojiť k inštancii Roliserver (aktuálne docker obraz)</p>
     <p xml:lang="sl">To je izvajalni program Rolisteam, ki ga lahko uporabljate samostojno kot strežnik/odjemalec ali v povezavi s pojavkom Roliserver (trenutno kot slika dockerja)</p>
     <p xml:lang="sv">Detta är Rolisteam klientbinärfilen som antingen kan användas fristående som en server/klient eller ansluta till en Roliserver-instans (för närvarande en Docker-avbild)</p>
     <p xml:lang="tr">Bu, bir Roliserver örneğine bağlanabilen veya tek başına bir sunucu veya istemci olarak çalışabiler Rolisteam İstemci İkilisidir (şu anda bir Docker yansısı olarak)</p>
