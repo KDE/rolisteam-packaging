@@ -32,6 +32,7 @@
   <name xml:lang="tr">Rolisteam RPG İstemcisi</name>
   <name xml:lang="uk">Клієнт RPG Rolisteam</name>
   <name xml:lang="x-test">xxRolisteam RPG Clientxx</name>
+  <name xml:lang="zh-TW">Rolisteam RPG 用戶端</name>
   <developer_name>Rolisteam</developer_name>
   <developer_name xml:lang="ast">Rolisteam</developer_name>
   <developer_name xml:lang="az">Rolisteam</developer_name>
@@ -65,6 +66,7 @@
   <developer_name xml:lang="tr">Rolistaem</developer_name>
   <developer_name xml:lang="uk">Rolisteam</developer_name>
   <developer_name xml:lang="x-test">xxRolisteamxx</developer_name>
+  <developer_name xml:lang="zh-TW">Rolisteam</developer_name>
   <summary>Client Companion to Rolisteam Server</summary>
   <summary xml:lang="az">Rolisteam Server üçün Müştəri Ortağı</summary>
   <summary xml:lang="bg">Придружаващ клиент към сървър Rolisteam</summary>
@@ -96,6 +98,7 @@
   <summary xml:lang="tr">Rolisteam Sunucusu için Yardımcı İstemci</summary>
   <summary xml:lang="uk">Компаньйон-клієнт сервера Rolisteam</summary>
   <summary xml:lang="x-test">xxClient Companion to Rolisteam Serverxx</summary>
+  <summary xml:lang="zh-TW">Rolisteam 伺服器的用戶端幫手</summary>
   <description>
     <p>This is the Rolisteam Client Binary which can be used either standalone as a server/client or connect to a Roliserver instance (currently a docker image)</p>
     <p xml:lang="az">Bu Rolisteam Müştəri binar faylıdır, hansı ki, ondan müstəqil server/müştəri, həmçinin Rolisteam nümunəsinə ( hal-hazırda bu bir doker sürətidir) bağlanmaq üçün istifadə etmək olar.</p>
@@ -128,6 +131,7 @@
     <p xml:lang="tr">Bu, bir Roliserver örneğine bağlanabilen veya tek başına bir sunucu veya istemci olarak çalışabiler Rolisteam İstemci İkilisidir (şu anda bir Docker yansısı olarak)</p>
     <p xml:lang="uk">Це виконуваний файл клієнта Rolisteam, яким можна скористатися як окремим сервером/клієнтом або для з'єднання із екземпляром Roliserver (у поточній версії — образом docker)</p>
     <p xml:lang="x-test">xxThis is the Rolisteam Client Binary which can be used either standalone as a server/client or connect to a Roliserver instance (currently a docker image)xx</p>
+    <p xml:lang="zh-TW">這是 Rolisteam 的用戶端執行檔，可以作為伺服器/用戶端獨立使用，或是連線到一個 Roliserver 實體（目前是一個 Docker 映像）</p>
   </description>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPLv2</project_license>
