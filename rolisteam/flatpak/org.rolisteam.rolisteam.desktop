@@ -4,6 +4,7 @@ X-AppInstall-Section=universe
 
 Type=Application
 Name=Rolisteam
+Name[ar]=روليستيم
 Name[ast]=Rolisteam
 Name[az]=Rolisteam
 Name[bg]=Rolisteam
@@ -41,6 +42,7 @@ Name[zh_TW]=Rolisteam
 Icon=org.rolisteam.rolisteam
 Version=1.1
 Comment=Manage your role playing game
+Comment[ar]=تحكم في لعبة تقمص الأدوار الخاصة بك
 Comment[az]=Rol oyununuzu idarə edin
 Comment[bg]=Управлявайте вашите ролеви игри
 Comment[ca]=Gestiona la partida del joc de rol
